@@ -1,0 +1,13 @@
+[user]
+	signingkey = F8B59EB5CF32552E
+	name = Duy Duong
+	email = duy@nimble.ai
+[gpg]
+	program = gpg2
+[credential]
+	helper = store
+[core]
+	editor = code --wait
+[push]
+	autoSetupRemote = true
+	default = current
